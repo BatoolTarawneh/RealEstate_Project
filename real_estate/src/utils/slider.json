@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Airport Street Villa",
+    "price": "600,000",
+    "detail": "Villa with an area of 520 square meters, duplex, a dunam of land",
+    "image": "../../assets/first.jpg"
+  },
+  {
+    "name": "Dabouq Villa",
+    "price": "500,353",
+    "detail": "Villa with an area of 500 square meters, duplexes, a 700 meter square of land",
+    "image": "../../assets/second.jpg"
+  },
+  {
+    "name": "Bader AL-Jadedah Villa",
+    "price": "400,853",
+    "detail": "Modern building with an area of 300 square meters,a 600 meter square of land",
+    "image": "../../assets/third.jpg"
+  },
+  {
+    "name": "Shafa-Badran Villa",
+    "price": "500,043",
+    "detail": "A recent villa with a newly built duplex roof for sale, with a building area of ​​280 m (third floor 180 m + roof 100 m), balcony area 80 m",
+    "image": "../../assets/fourth.jpg"
+  },
+  {
+    "name": "Modern Shafa-Badran Villa",
+    "price": "300,353",
+    "detail": " villa for sale in the most beautiful areas of Shafa Badran, near Al Nabaa, Shafa Badran",
+    "image": "../../assets/fifth.jpg"
+  },
+  {
+    "name": "Deir Ghbar Villa",
+    "price": "600,853",
+    "detail": "Villa for sale, West Amman, Deir Ghbar, Al Hashemioun Street, near Junia Pharmacy",
+    "image": "../../assets/sixth.jpg"
+  },
+  {
+    "name": "Countryside Home",
+    "price": "40,853",
+    "detail": "countryside small home,150 meter",
+    "image": "../../assets/seventh.jpg"
+  },
+   {
+    "name": "Jabal Lwebdeh Home",
+    "price": "60,853",
+    "detail": "Jabal Lwebdeh small home,130 meter",
+    "image": "../../assets/eighth.jpg"
+  }
+]
